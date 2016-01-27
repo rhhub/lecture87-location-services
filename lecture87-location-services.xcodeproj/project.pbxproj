@@ -15,6 +15,7 @@
 		AFF348A11C592E9300044777 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AFF3489F1C592E9300044777 /* LaunchScreen.storyboard */; };
 		AFF348AC1C592E9300044777 /* lecture87_location_servicesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFF348AB1C592E9300044777 /* lecture87_location_servicesTests.swift */; };
 		AFF348B71C592E9300044777 /* lecture87_location_servicesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFF348B61C592E9300044777 /* lecture87_location_servicesUITests.swift */; };
+		AFF348C51C593D1F00044777 /* BootcampAnnotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFF348C41C593D1F00044777 /* BootcampAnnotation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		AFF348B21C592E9300044777 /* lecture87-location-servicesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "lecture87-location-servicesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AFF348B61C592E9300044777 /* lecture87_location_servicesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lecture87_location_servicesUITests.swift; sourceTree = "<group>"; };
 		AFF348B81C592E9300044777 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AFF348C41C593D1F00044777 /* BootcampAnnotation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BootcampAnnotation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				AFF3489D1C592E9300044777 /* Assets.xcassets */,
 				AFF3489F1C592E9300044777 /* LaunchScreen.storyboard */,
 				AFF348A21C592E9300044777 /* Info.plist */,
+				AFF348C41C593D1F00044777 /* BootcampAnnotation.swift */,
 			);
 			path = "lecture87-location-services";
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				AFF348991C592E9300044777 /* LocationVC.swift in Sources */,
 				AFF348951C592E9300044777 /* AppDelegate.swift in Sources */,
 				AFF348971C592E9300044777 /* FirstViewController.swift in Sources */,
+				AFF348C51C593D1F00044777 /* BootcampAnnotation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
